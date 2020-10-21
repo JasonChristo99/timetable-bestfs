@@ -1,11 +1,11 @@
 SCH_DAYS 2
 SCH_HRS_PDAY 4
 MAX_HRS_PTCHR_PDAY 2
-Tsinta A1 Glwssa 2
-Tsinta A2 Glwssa 2
-Farkwna A1 Math 2
-Farkwna A2 Math 2
-Sdrakas A1 Arxaia 2
-Sdrakas A2 Arxaia 2
-Kampris A1 Gym 1
-Kampris A2 Gym 1
+Georgiou A1 Glwssa 2
+Georgiou A2 Glwssa 2
+Xanos A1 Math 2
+Xanos A2 Math 2
+Andreou A1 Arxaia 2
+Andreou A2 Arxaia 2
+Bezos A1 Gym 1
+Bezos A2 Gym 1
